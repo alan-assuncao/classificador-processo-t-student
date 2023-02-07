@@ -19,4 +19,4 @@ lista demarcada:
 lista de tarefas:
 
 
-- [ ] fazer o teste
+- [ x ] fazer o teste
