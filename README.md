@@ -53,3 +53,5 @@ W_sparsa_phi = function(phi, W_sparse, D_sparse, W_m, rho, m, quant_t){
        }
   }
 ```
+
+Colocando emoji: vulcano
