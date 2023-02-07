@@ -15,3 +15,8 @@ lista demarcada:
 1. teste 1
 2. teste 2
    1. teste 3
+
+lista de tarefas:
+
+-[] fazer o primeiro teste
+-[] fazer o segundo teste
