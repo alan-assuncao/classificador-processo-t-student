@@ -24,3 +24,8 @@ lista de tarefas:
 Criando link:
 
 [Acesse meu Github](https://github.com/alan-assuncao)
+
+Num | Nome | Nota
+--- | --- | ---
+1| Alan | 10.0
+2| Kleunice | 10.0
