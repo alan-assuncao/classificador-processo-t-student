@@ -29,3 +29,5 @@ Num | Nome | Nota
 --- | --- | ---
 1| Alan | 10.0
 2| Kleunice | 10.0
+
+Olha meu Comando `Rcpp`
