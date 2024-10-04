@@ -10,14 +10,24 @@ Listas numeradas
 1. teste 2
    1. subteste
 
-lista demarcada:
+lista enumerada:
 
 1. teste 1
 2. teste 2
    1. teste 3 (coloque tres espaços a frente)
 
+lista demarcada:
+
+* teste 1
+* teste 2
+   * teste 3 (coloque tres espaços a frente)
+  
+   
 lista de tarefas:
 
+colocando figura
+
+![figura 1](https://github.com/user-attachments/assets/7e3d0c5e-c5dc-4ef7-ad63-b0d19b523d95)
 
 - [x] fazer o teste
 
@@ -57,6 +67,7 @@ W_sparsa_phi = function(phi, W_sparse, D_sparse, W_m, rho, m, quant_t){
 Colocando emoji 🐒 
 
 Marcando pessoas @ricardo
+
 
 
 
