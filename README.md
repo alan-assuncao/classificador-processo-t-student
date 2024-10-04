@@ -21,15 +21,16 @@ lista demarcada:
 * teste 1
 * teste 2
    * teste 3 (coloque tres espaços a frente)
-  
-   
-lista de tarefas:
 
 colocando figura
 
 ![figura 1](https://github.com/user-attachments/assets/7e3d0c5e-c5dc-4ef7-ad63-b0d19b523d95)
 
+lista de tarefas:
+
 - [x] fazer o teste
+- [ ] fazer teste 2
+   - [ ] fazer teste 3
 
 Criando link:
 
@@ -64,9 +65,10 @@ W_sparsa_phi = function(phi, W_sparse, D_sparse, W_m, rho, m, quant_t){
   }
 ```
 
-Colocando emoji 🐒 
+Colocando emoji 🐒 (coloque dois pontos para aparecer as opçoes e fecha com dois pontos)
+colocando outro emoji :cold_sweat:
 
-Marcando pessoas @ricardo
+Marcando pessoas @
 
 
 
